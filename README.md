@@ -2,7 +2,8 @@
 
 ## Live Dashboard on Tableau Public
 [**Click here to view the interactive dashboard**](https://public.tableau.com/app/profile/jeremy.choi/viz/RetailFPATableauDashboard-JeremyChoi/Dashboard1?publish=yes)
-
+## 45-Second Video Demonstration
+[**Click here to watch the video demonstration.**](demo-video.mp4)
 ---
 
 ### Project Overview
